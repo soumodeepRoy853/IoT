@@ -1,2 +1,2 @@
 # IoT
-Smart Dustbin using Arduino uno
+Create a Smart Dustbin using Arduino uno.
